@@ -4,5 +4,5 @@ __pycache__/
 *.log
 *.db
 gitpush.sh
-ven310/
-ven/
+venv310/
+venv/

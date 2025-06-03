@@ -6,3 +6,5 @@ __pycache__/
 gitpush.sh
 venv310/
 venv/
+models/
+models/*

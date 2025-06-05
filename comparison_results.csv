@@ -1,0 +1,108 @@
+question,reference_answer,base_model_answer,fine_tuned_model_answer
+Comment faire une demande de RSA pour une personne isolée ?,"Pour faire une demande de RSA en tant que personne isolée, vous devez :
+1. Rassembler une pièce d’identité valide (carte nationale d’identité ou passeport) et un justificatif de domicile de moins de trois mois (facture EDF, quittance de loyer, etc.).
+2. Accéder au site de la CAF (www.caf.fr), créer un compte puis remplir le formulaire « Demande de RSA ».
+3. Joindre vos trois derniers bulletins de salaire ou vos attestations de revenus si vous êtes sans activité.
+4. Envoyer votre dossier complet en ligne ou le déposer directement dans l’agence CAF de votre département.
+5. Attendre la réponse de la CAF (environ 1 à 2 semaines) : vous recevrez un courrier ou un e-mail confirmant le montant et la date de versement.",,La demande s’effectue auprès de la CAF avec les documents nécessaires.
+Quels documents sont nécessaires pour renouveler une carte nationale d’identité ?,"Pour renouveler une carte nationale d’identité française, il vous faut :
+1. Votre ancienne carte d’identité (même si elle est périmée depuis moins de cinq ans).
+2. Une photo d’identité récente et conforme aux normes officielles (fond uni, visage dégagé, expression neutre).
+3. Un justificatif de domicile de moins de six mois (facture d’électricité, de téléphone, quittance de loyer, etc.).
+4. Le formulaire CERFA n°12100*02 dûment rempli (disponible en ligne ou en mairie).
+5. Un timbre fiscal dont le montant varie selon votre âge (25 € pour un adulte, 17 € pour un mineur de moins de 15 ans, etc.).
+6. Se présenter lors d’un rendez-vous en mairie pour remise des empreintes digitales et validation du dossier.","Réponds à la question administrative suivante :
+
+Quels documents sont nécessaires pour renouveler une carte nationale d’identité ?
+
+Réponds à la question administrative suivante :
+
+Quels documents sont nécessaires pour renouveler une carte nationale d’identité ?
+
+Réponds à la question administrative suivante :
+
+Quels documents sont nécessaires pour renouveler une carte nationale d’identité ?
+
+Réponds à la question administrative suivante :
+
+Quels documents sont nécessaires pour renouvel","Passeport, justificatif de domicile, photos et justificatifs d’activité."
+Comment déclarer mes impôts en ligne sur impots.gouv.fr ?,"Pour déclarer vos impôts en ligne :
+1. Connectez-vous à votre espace personnel sur impots.gouv.fr (créez un compte si nécessaire).
+2. Dans la rubrique « Déclarer mes revenus », sélectionnez l’année fiscale en cours.
+3. Vérifiez et complétez les informations préremplies (salaires, pensions, revenus fonciers, etc.).
+4. Ajoutez vos éventuelles déductions ou crédits d’impôt (dons, frais réels, dépenses pour la transition énergétique, etc.).
+5. Validez chaque page, signez électroniquement puis envoyez votre déclaration.
+6. Vous recevrez un accusé de réception immédiatement, et votre avis d’imposition sera disponible sous quelques semaines.",,Vous pouvez déclarer vos impôts en ligne sur impots.gouv.fr en créant un espace personnel.
+Comment obtenir une carte Vitale ?,"Pour obtenir une carte Vitale (Assurance Maladie) :
+1. Créez un compte personnel sur le site Ameli (www.ameli.fr).
+2. Dans votre espace, cliquez sur « Commander ma carte Vitale ».
+3. Remplissez le formulaire en ligne en fournissant votre numéro de sécurité sociale et vos coordonnées.
+4. Téléchargez ou joignez une copie de votre justificatif d’identité (carte d’identité ou passeport) et un RIB (relevé d’identité bancaire).
+5. Attendez la réception de la carte Vitale sous 10 à 15 jours : elle vous sera envoyée par la sécurité sociale.","La carte Vitale est un outil de santé qui permet à chaque Français de bénéficier d’un accès à la santé de qualité. Elle est délivrée par le Caisse Primaire d’Assurance Maladie (CPAM) de votre département.
+
+Pour obtenir votre carte Vitale, vous devez vous inscrire auprès du CPAM de votre département. Vous pouvez le faire en ligne sur le site du CPAM ou en personne dans un bureau de CPAM.
+
+Une",La carte Vitale est envoyée automatiquement après l’immatriculation.
+Quels documents faut-il fournir pour une demande d’APL ?,"Pour faire une demande d’APL, vous devez fournir :
+1. Une pièce d’identité (carte d’identité, passeport, titre de séjour).
+2. Un justificatif de domicile récent (contrat de location ou facture d’électricité).
+3. Vos trois derniers bulletins de salaire ou, le cas échéant, votre avis de situation Pôle emploi.
+4. Le formulaire CERFA n°10804*02 rempli (disponible en ligne).
+5. Un RIB (pour le versement de l’aide).
+6. Envoyez le dossier complet à la CAF responsable de votre logement : la CAF calculera le montant en fonction de vos ressources et de la situation du logement.",,"Vous devez fournir des pièces d’identité, de domicile et de ressources."
+,<Pas de question – le modèle devrait demander une reformulation>,<Empty input – model should ask for clarification>,<Empty input – model should ask for clarification>
+"J’ai perdu ma carte Vitale, j’ai déménagé, et j’ai changé de banque. Expliquez toutes les étapes pour déclarer mon changement d’adresse, ré-émettre une carte Vitale, et mettre à jour mes coordonnées bancaires auprès de la CAF.","1. Déclarer changement d’adresse à la CAF (espace en ligne ou courrier).
+2. Demander le duplicata de carte Vitale (compte Ameli → formulaire « Demander ma carte Vitale »).
+3. Mettre à jour vos coordonnées bancaires dans votre espace CAF (onglet « Mon compte » → « Gérer mes RIB »).","## Réponse
+
+### 1. Déclarer votre changement d’adresse
+
+Pour déclarer votre changement d’adresse, vous devez remplir un formulaire de déclaration de changement d’adresse. Vous pouvez le télécharger sur le site internet de la CAF ou le demander par courrier à l’adresse suivante :
+
+CAF
+Service des déclarations
+BP 10001
+92911 Nanterre Cedex
+
+Vous devez remplir le",Vous devez déclarer tout changement rapidement à la CAF.
+Comment obtenir un prêt immobilier en France ?,<Hors sujet – le modèle devrait dire qu’il ne couvre pas ce domaine>,"## Réponse
+
+### Prérequis
+
+- Être majeur
+- Être en possession d'un passeport ou d'un carte d'identité
+- Être en possession d'un permis de conduire
+- Être en possession d'un contrat de travail
+- Être en possession d'un contrat de location
+- Être en possession d'un contrat de bail
+- Être en possession d'un contrat de location
+- Être en possession d'un contrat de bail
+-",Le prêt immobilier est destiné aux professionnels de la construction.
+Commet faires une demande de car Vitale ?,<Typo détectée – le modèle devrait comprendre « carte Vitale » ou demander clarification>,,La demande se fait en ligne sur le site de la CAF.
+Comment renouveler mon passeport français ?,"Pour renouveler un passeport français :
+1. Prendre rendez-vous en mairie ou consulat.
+2. Remplir le formulaire CERFA n°12100*02.
+3. Fournir l’ancien passeport, photo d’identité, justificatif de domicile, timbre fiscal (86 €).
+4. Déposer le dossier complet lors du rendez-vous.
+5. Attendre 2 à 3 semaines pour le nouveau passeport.","## Answer 1:
+
+Pour renouveler votre passeport, vous devez remplir un formulaire de demande de renouvellement de passeport et vous devez fournir des preuves de votre identité et de votre nationalité française. Vous pouvez obtenir un formulaire de demande de renouvellement de passeport en ligne sur le site web du ministère des Affaires étrangères ou en contactant votre consulat le plus proche.
+
+Une fois que vous avez rempli le formula",Le renouvellement se fait en ligne sur le site de l’ANTS.
+Qu’est-ce que je dois faire ?,<Vague – le modèle devrait demander plus de contexte>,"1. Je dois faire un rapport sur le projet.
+2. Je dois faire un rapport sur le projet.
+3. Je dois faire un rapport sur le projet.
+4. Je dois faire un rapport sur le projet.
+5. Je dois faire un rapport sur le projet.",Vous devez déclarer vos revenus dans votre espace fiscal.
+"Quels sont les documents nécessaires pour faire une demande de RSA quand on est étudiant boursier, déjà allocataire de la CAF, et que l’on souhaite changer de département ?","1. Pièce d’identité et justificatif de domicile (étudiant boursier : justificatif de bourse).
+2. Notification de bourse si nécessaire (pour calcul du RSA).
+3. Preuves de ressources (fiches de paie ou attestation Pôle emploi).
+4. Déclaration de situation à la CAF (déjà allocataire → mettre à jour le dossier).
+5. Demander le transfert de dossier CAF vers le nouveau département (mon compte CAF → rubrique « Mes démarches »).
+6. Envoyer le dossier complet au nouveau relais CAF pour calcul du RSA.","## Réponse
+
+### 1. Quels sont les documents nécessaires pour faire une demande de RSA quand on est étudiant boursier, déjà allocataire de la CAF, et que l’on souhaite changer de département ?
+
+Pour faire une demande de RSA, il faut :
+
+- un justificatif de situation familiale (déclaration de revenus de l’année précédente, déclaration de revenus de l’année en cours, déclaration de revenus de l’année précédente et","Vous devez fournir votre carte d’identité, justificatif de domicile, et justificatifs de ressources."

@@ -8,3 +8,6 @@ venv310/
 venv/
 models/
 models/*
+offload_base/
+offload_compare/
+offload_finetuned

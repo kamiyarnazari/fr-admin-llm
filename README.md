@@ -1,4 +1,4 @@
-# 🧠 fr-admin-llm
+# fr-admin-llm
 
 > Fine-tuned LLM for answering French administrative questions
 
@@ -16,7 +16,7 @@ To train a lightweight, instruction-tuned LLM that can answer common French admi
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install dependencies**
 
@@ -58,7 +58,7 @@ To train a lightweight, instruction-tuned LLM that can answer common French admi
 
 ---
 
-## 🧩 Integration
+## Integration
 
 This model is used in the [`fr-admin-chatbot`](https://github.com/kamiyarnazari/fr-admin-chatbot) project as a fallback response generator when semantic retrieval confidence is low.
 
